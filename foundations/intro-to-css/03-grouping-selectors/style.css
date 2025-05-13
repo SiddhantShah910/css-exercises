@@ -6,7 +6,6 @@
 .noClickMe {
     background-color: yellow;
 }
-/* - **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback */
 
 .default-font-type {
     font-size: 28px;
